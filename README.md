@@ -3,7 +3,7 @@ FEFD
 
 CMS Monthly Full Enrollment Data File import into MS SQL
 
-CreateTableFEFD
+Create_FEFD_table
 Creates table in FEFD format
 
 ImportFEFD
